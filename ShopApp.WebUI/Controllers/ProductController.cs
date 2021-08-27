@@ -77,5 +77,9 @@ namespace ShopApp.WebUI.Controllers
         {
             return Ok();
         }
+        public IActionResult Cghanging3() 
+        {
+            return View("3");
+        }
     }
 }
