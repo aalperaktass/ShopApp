@@ -69,6 +69,10 @@ namespace ShopApp.WebUI.Controllers
 
             return View();
         }
+        public IActionResult Chancing1()
+        {
+            return Ok();
+        }
 
     }
 }
