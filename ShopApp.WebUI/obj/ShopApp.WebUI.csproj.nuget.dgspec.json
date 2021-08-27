@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {}
+    "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {
+    "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
         "projectName": "ShopApp.WebUI",
-        "projectPath": "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+        "projectPath": "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
         "packagesPath": "C:\\Users\\Aper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
