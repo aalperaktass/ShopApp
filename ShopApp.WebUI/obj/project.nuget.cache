@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bdcZRPQMTFVpq7C5ODh036+vU87f7XspTzxdQRnm+o7D1tBuYxx2J7AnurtTeTbHG/wAAuiB1QbW1eSgc0372w==",
+  "dgSpecHash": "E0Lh8TjZUIOYaGVw+xHp2dlLRBh1FQny5tZCsRFhQxGcMxqjq/65MOCjqh1v6M/pgEmXwkmkmstcVb2ICGlW9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aper\\Desktop\\NewShopApp\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Aper\\Desktop\\new2\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aper\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Aper\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
