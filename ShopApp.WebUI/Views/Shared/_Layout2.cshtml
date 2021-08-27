@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Product</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body style="background-color: yellow;">
+    @await Html.PartialAsync("_navbar")
+    <partial name="_header">
+        <main>
+            <div class="container">
+                @RenderBody()
+            </div>
+        </main>
+
+</body>
+</html>
+
+@*Bu dosya tüm sayfalarda aynı olan footer, navbar gibi yerleri elimizdeki tüm sayfalarda göstermeye yarıyor.
+RenderBody ise tüm sayfalarda farklı olacak olan yer olarak ifade ediliyor. Başka sayfalarda bunu çağırmak için kullanılan
+yöntem yine en üstte     Layout = "_Layout"; şeklinde. Bunu çağırdığımız sayfalarda yazılması gereken şeyler en üstteki modeller dışında sadece 
+render ile ifade edilen bölgelerdir.*@

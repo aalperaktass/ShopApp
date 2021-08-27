@@ -1,0 +1,11 @@
+﻿@model Product
+
+<div class="card mb-3">
+    <img class="card-img-top" src="~/img/@Model.ImageUrl" alt=""> 
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <a href="/Product/Details/@Model.ProductId" class="btn btn-primary">İncele</a>
+        <a asp-controller="Product" asp-action="Details"   asp-all-route-id="@Model.ProductId"></a>
+    </div>
+</div>   
